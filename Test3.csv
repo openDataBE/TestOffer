@@ -1,0 +1,262 @@
+nameDe;address;zip;location;phone;onlineRegistrationLink;openingHoursDe;fastNasopharyngealTest;pcrNasopharyngealTest;pcrSpitTest;pcrPooledSpitTest;coordinates;createsCertificate;isDriveIn;isHospital;descriptionDe;capacity_fast;capacity_pcr;capacity_spit;capacity_pool
+adeldoc;Im Postgebäude, Dorfstrasse 6;3715;Adelboden;033 673 26 26;;10:00-12:00 / 15:00-17:00;1;1;0;0;"""46.4968932,7.6741166""";0;1;0;Testung nur für symptomatische Patienten/Patientinnen, die auch eine ärztliche Beratung/Untersuchung benötigen;20;20;0;0
+Aerztezentrum Interlaken;Florastrasse 9;3800;Interlaken;;;8:00-12:00 / 14:00-17:00 gemäss Terminvereinbarung;1;1;1;0;"""46.9479603,7.4233561""";1;0;0;Nur für praxiseigene PatientInnen mit Symptomen;5;5;2;0
+Aeztepraxis im Zentrum;Dorfstrasse 44;3661;Uetendorf;033 346 56 56;;07:30-17:00;1;1;0;0;"""46.9638083,7.4642143""";1;0;0;;15;15;0;0
+Apotheke;Länggassstrasse 28;3012;Bern;031 301 23 22;;nach Anfrage;1;0;0;0;"""46.6808844,7.8430165""";0;0;0;Test hinter der Apotheke in Spezialbehausung;30;0;0;0
+Apotheke Belp;Dorfstrasse 26;3123;Belp;;https://www.terminland.eu/apotheke.belp/;Zu den Geschäftsöffnungszeiten gemäss online Verfügbarkeit.;1;1;0;0;"""46.7457153,7.6260703""";1;0;0;Anmeldung ausschliesslich online.;20;20;0;0
+Apotheke Coop Vitality Europaplatz;Europaplatz 1A;3008;Bern;;https://www.coop-vitality.ch;Montag-Freitag 09:30-16:00;1;1;0;0;"""47.2425447,7.7665922""";1;0;0;nur online Anmeldung;12;3;0;0
+Apotheke Dr. Grünig Blümlisalp;Frutigenstrasse 56A;3604;Thun;;https://www.apotheke.ch/gruenig-bluemlisalp/news/covid-19-test;Montag bis Samstag gemäss Verfügbarkeit der Onlinetermine;1;1;1;0;"""46.4936445,7.560035""";1;0;0;gratis Parkplätze vor der Apotheke vorhanden;40;40;40;0
+Apotheke Dr. Grünig Niesen;Oberlandstrasse 56;3700;Spiez;;https://www.apotheke.ch/gruenig-niesen;Montag bis Samstag gemäss Verfügbarkeit der Onlinetermine. Online-Anmeldung erforderlich!;1;1;1;0;"""46.6868028,7.68091359999999""";1;0;0;Gratis Parkplätze vorhanden. Die Tests werden nicht in der Apotheke durchgeführt. Das Testzentrum befindet sich auf der linken Seite der Apotheke.;5;10;0;0
+Apotheke Dr. Küpfer AG;Bahnhofstrasse 6;3360;Herzogenbuchsee;;https://www.apotheke-kuepfer.ch;"Montag 08:00-12:00
+Dienstag 13:30-17:00
+Mittwoch 14:00-17:00
+Donnerstag 14:30-18:00
+Freitag 13:30-17:00
+Samstag 09:00-16:00";1;1;1;0;"""46.6808627,7.8641833""";1;0;0;Die oben genannten Oeffnungszeiten gelten ab dem 15.01.2022;30;20;10;0
+Apotheke Dr. Portmann AG;Grundstrasse 54;3818;Grindelwald;;;Montag-Sonntag 08:15-11:00 / 15:30 - 17:00 ;1;1;1;0;"""46.6850183,7.8549258""";1;0;0;Walk-in ohne Voranmeldung;100;40;40;0
+Apotheke Dr. Portmann.ch;Höheweg 4;3800;Interlaken;;;"Montag 09:15 - 11:30 / 16:00 - 17:30 
+Dienstag 09:15 - 11:30 / 16:00 - 17:30 
+Mittwoch 09:15 - 11:30 / 16:00 - 17:30 
+Donnerstag 09:15 - 11:30 / 16:00 - 17:30 
+Freitag 09:15 - 11:30 / 15:00 - 17:30  
+Samstag 09:15 - 11:30 / 13:30 - 16:00 ,
+Sonntag 09:45 - 11:30 / 16:00 - 17:30 ";1;1;1;0;"""46.956541,7.4832679""";1;0;0;Walk - in ohne Voranmeldung;100;40;40;0
+Apotheke Moser AG;Bernstrasse 33;3072;Ostermundigen;031 931 12 65;;"Montag 14:30-16:30 
+Freitag 14:30-16:30 ";1;0;0;0;"""47.0178902,7.4835993""";1;0;0;Telefonische Anmeldung ist erforderlich.;12;0;0;0
+Apotheke Schmitten;F. X. Müllerstrasse 15;3185;Schmitten;;https://www.apotheke-schmitten.ch/corona-antigen-schnelltest;Je nach Personalsituation werden Test-Fenster aufgeschaltet.;1;0;0;0;"""46.8544828,7.25001559999999""";1;0;0;;15;;;
+Apotheke Schneider AG;Bahnhofstrasse 24;3076;Worb;;https://www.apotheke-schneider.ch;Siehe Homepage;0;0;1;0;"""46.974178,7.48174""";0;0;0;;0;0;20;0
+Apotheke Schönenbrunnen;Steinbachstrasse 28;3123;Belp;;https://www.terminland.eu/ovan/;zu den Geschäftsöffnungszeiten gemäss Verfügbarkeit von freien Terminen online;1;1;0;0;"""46.9376077,7.4763194""";1;0;0;Aufgrund der Sicherheitseinrichtung ist leider keine Testung für Personen mit Symptomen möglich!;10;10;0;0
+Apotheke Sumiswald;Dorfgasse 2;3454;Sumiswald;034 431 43 43;;"Testzentrum: Marktgasse 2 / 3454 Sumiswald
+Montag - Freitag 14:00 - 17:00";1;1;1;0;"""46.8967084,7.4929404""";1;0;0;Das Testzentrum befindet sich an der Marktgasse 2 in 3454 Sumiswald;15;15;15;0
+Apotheke Weissenau GmbH;Weissenaustrasse 27;3800;Unterseen;;https://apotheke-weissenau.ch/corona-testcenter-der-apotheke-weissenau-gmbh/;"Testzentrum Interlaken (momentan): 15:00-19:00 
+Testzentrum Frutigen (momentan): 16:00-19:00 
+Testzentrum Adelboden (momentan): 16:00-19:00 ";1;0;0;0;"""46.8138354,7.4782441""";1;0;0;Die Apotheke Weissenau GmbH betreibt 3 Testzentren, eines in Interlaken, eines in Frutigen und eines in Adelboden. Wir bieten nur Antigen-Schnelltests an, machen jedoch die Bestätigungsdiagnostik per PCR (Speichel oder Abstrich) im Fall eines positiven Antigen-Schnelltests.;120;0;0;0
+Ärztezentrum Bäraupark;Bäraustrasse 58a;3552;Bärau;034 552 05 00;;Antigen-Schnelltests nur nach vorheriger Anmeldung.;1;0;0;0;"""46.6246827,8.018901""";1;1;0;Bitte Informieren Sie sich vorab selbstständig welche Testart sie benötigen und vereinbaren dann einen Termin mit uns. Wenn ein positiver Selbsttest vorliegt kann der Bestätigungstest nur für unsere eigenen Patienten bei uns durchgeführt werden. Vielen Dank für die Berücksichtigung.;10;0;0;0
+Ärztezentrum Brienz - Burgerhaus;Hauptstrasse 61;3855;Brienz;033 951 33 33;;"Die Testkapazität kann abweichen 
+Montag-Freitag 07:00-12:00, 13:30-16:00 (Mittwochnachmittag geschlossen)";1;1;1;0;"""47.152158,6.9966748""";1;0;0;;3;3;3;0
+Ärztezentrum Pieterlen AG- Praxis;Konsumweg 8;2542;Pieterlen;032 377 22 00;;"Montag bis Freitag          
+07:30 bis 12:00  
+13:30 bis 18:00 
+
+Donnerstag 
+07:30 bis 12:00  
+13:30 bis 20:00 
+
+Samstag, geschlossen
+Sonntag, geschlossen";0;1;0;0;"""46.7530179,7.6305036""";0;0;0;PCR Test nur bei bekannte Patienten in der Praxis!;0;10;0;0
+Ärztezentrum Praxis 1;Bahnhofplatz 1;3110;Münsingen;031 720 33 33;;meistens nachmittags;1;1;0;0;"""46.9433745,7.451328""";0;0;0;Nur symptomatische Personen, welche bei uns auch sonst hausärztlich betreut werden können sich für einen Abstrich anmelden.;5;5;0;0
+Ärztlich geleitetes Testzentrum Ittigen;Pulverstube, Talgutzentrum 20;3063;Ittigen;077 427 78 65;;"Testzeiten jeweils samstags 10:00 – 13:00.
+Nur auf telefonische Voranmeldung!  Bei ""walk in"" sind längere Wartezeiten möglich. 
+Das Telefon ist bedient jeweils donnerstags und freitags 09:30 - 11:00  (077 427 78 65).";1;0;0;0;"""46.8913548,7.4987136""";1;1;0;"Die Pulverstube ist im Talgutzentrum im Arkadengang mittig zwischen Coop und Post. Eine Autoeinstellhalle ist vorhanden.
+Mit dem öV gut erreichbar: RBS Station Ittigen, Züge von/nach Bern alle 15 Minuten.
+Kosten für Personen ohne schweizer Krankenkasse (oder für Auslandreisen) Fr. 25.- (in bar)";80;0;0;0
+Arztpraxis im Stockfeld;Grenzstrasse 5;2558;Aegerten;032 373 44 23;;auf Anmeldung Montag bis Samstag;1;1;0;0;"""46.6606139,7.7333724""";1;0;0;;5;5;0;0
+Arztpraxis Kandersteg Dr.med. Hendrik Pilz;Aeussere Dorfstrasse 39;3718;Kandersteg;033 675 1424;;nur nach telefonischer Absprache;0;1;0;0;"""46.8413356,7.5694634""";0;0;0;zur Zeit Engpass an Test-Kits;0;10;0;0
+arztpraxis-widmer;Schulhausstrasse 5;3855;Brienz;033 951 44 44;;"Montag bis Samstag 07:30-12:00
+Nachmittags 14:00-18:30 ausser Mittwoch- und Samstagnachmittag
+Sonntags in der Regel geschlossen";1;1;0;0;"""46.952572,7.2587478""";1;0;0;#NAME?;40;40;0;0
+Bahnhofapotheke Langenthal;Eisenbahnstrasse 8;4900;Langenthal;;https://apothekelangenthal.ch/covid-schnelltests/;"Montag-Freitag 9:00-12:00, 13:30-17:00
+Samstag 9:00-12:00, 13:30-15:10
+je nach Nachfrage nicht durchgehend möglich";1;1;1;0;"""46.7320041,8.1826257""";1;0;0;;100;100;100;0
+Bahnhofpraxis Wichtrach;Bahnhofstrasse 28;3114;Wichtrach;031 781 22 22;;"Praxisöffnungszeiten
+
+Es werden ausschliesslich eigene PatientInnen mit Symptomen, welche auch eine Arztkonsultation benötigen getestet";0;1;1;0;"""46.9468632,7.4259571""";1;0;0;Es werden ausschliesslich eigene PatientInnen mit Symptomen, welche auch eine Arztkonsultation benötigen getestet;0;8;6;0
+Beunde Praxiszentrum by Medaxo;Aarbergstrasse 5;3294;Büren an der Aare;032 533 01 01;;"Montag, Mittwoch, Donnerstag 16:00-17:45
+Dienstag 16:00-17:00
+Freitag 11:00-12:00";1;1;0;0;"""46.9351032,7.479577""";1;§;0;"Termine nach telefonischer Vereinbarung
+Antigen-Schnelltest Resultat inkl. Zertifikat nach max. 3h
+PCR-Test Resultat inkl. Zertifikat nach 24-48h";4;4;0;0
+Cabinet de la Forge;La Forge 9;2608;Courtelary;032 944 20 03;;"08:00- 12:00
+14:00- 18:00";1;1;0;0;"""46.9531782,7.4328452""";1;0;0;;30;30;0;0
+Cabinet du Dr Escande;chemin de granval 141;2746;cremines;;;du lundi au vendredi de 8h à 17h;1;1;1;1;"""46.7587357,7.6296252""";1;0;0;;10;20;20;10
+Central Apotheke Thun (im Kino Rex);Aarestrasse 2a (IM Kino Rex);3600;Thun;;https://centralapotheke-thun.ch/covid/;Öffnungszeiten gemäss Webseite https://centralapotheke-thun.ch/covid/;1;1;0;0;"""46.943552,7.4058043""";1;0;0;"Für Anitgen-Schnelltest sind online-Anmeldungen erwünscht, aber auch walk-in ohne Anmeldung ist möglich
+PCR-Tests nur auf Anmeldung möglich";150;10;0;0
+City Notfall Bern;Schanzenstrasse 4A;3008;Bern;;;COVID Fast Track: Montag-Freitag 8:30-17:30 ;0;1;0;0;"""46.948222,7.437417""";1;0;0;Walk-in-Prinzip. Keine Voranmeldung nötig. Es ist mit Wartezeiten zu rechnen.;15;15;0;0
+Corona Screening Zentrum Olten;Rötzmattweg 51;4600;Olten;;https://stzolten.ch/;"Montag-Freitag 11:00-19:00 
+Samstag 09:00-17:00
+Sonntag 09:00-15:00";1;1;0;0;"""47.3459302,7.8986927""";1;0;0;Eine Testung ist nur nach vorheriger Registration möglich.;50;100;0;0
+COVID-Check MEDIN Biel;Vogelsang 84;2502;Biel;;https://www.medin-bielbienne.ch/covidterminplaner;"Montag - Freitag: 08:00-17:30
+Samstag 08:00-17:00
+Sonntag 12:00-16:00";1;1;1;1;"""47.2746873,7.6894654""";1;0;0;;400;400;400;400
+Diagnos Medical AG;Bahnofstrasse 5;2502;Biel;;https://www.onedoc.ch/en/medical-practice/biel-bienne/e5rb/testcenter-biel;"Montag-Freitag 09:00-19:00
+Samstag 09:00 - 17:00
+Lundi à vendredi 09h00- 19h00
+Samedi 09h00-17h00";1;1;0;0;"""47.1340088,7.2434047""";1;0;0;"Willkommen!  Mit oder ohne Termin. 
+Bienvenue ! Avec ou sans rendez-vous.";4;4;4;0
+DOCS Schnelltestzentrum BernExpo;Tschäppätstrasse;3000;Bern;;;Mittwoch bis Sonntag  14:00-20:00 ;1;0;0;0;"""46.8277128,7.6961764""";1;0;0;Unser Testzentrum ist in keiner Weise ausgelastet und hätte genügend Kapazität;1000;0;0;0
+Docteur Damien Loison;Route de Neuchâtel;3;La Neuveville;;;Lundi à vendredi 08h00-18h00;0;1;0;0;"""46.7551649,7.6313548""";1;0;0;;5;5;0;0
+Dr. med. Helen Hochreutener, Kinderarztpraxis;29 Bahnhofstrasse 29;3800;Interlaken;033 823 23 33;;"nur für eigene Patienten
+8:00-12:00 und 14:00-18:00
+Donnerstagnachmittag, Samstag und Sonntag geschlossen";1;0;0;0;"""46.6836502,7.85225809999999""";0;0;0;;2;2;2;0
+Erlenbach Praxiszentrum by Medaxo;Lindenmatte 299a;3762;Erlenbach im Simmental;033 783 02 05;;Montag-Freitag 10:00-12:00 / 14:00-15:00;1;1;0;0;"""47.1051921,7.6681859""";1;0;0;"Termine nach telefonischer Vereinbarung
+Antigen-Schnelltest Resultat inkl. Zertifikat nach max. 3h
+PCR-Test Resultat inkl. Zertifikat nach 24-48h";5;5;0;0
+Frauenarzt-Praxis Zweisimmen AG;Bolgengasse 40;3770;Zweisimmen;033 722 20 30;;Nur nach telefonischer Anmeldung!;1;1;0;0;"""46.5581255,7.3724128""";1;0;0;;10;10;0;0
+Galerie Fichtenweg Dr.med.;Fichtenweg 3 a;3715;Adelboden;079 245 20 06;;nach telefonischer Anmeldung;1;1;0;0;"""47.0291515,7.7441756""";1;0;0;;10;10;0;0
+Gemeinschaftspraxis Jäger und Ly;Weyermattstrasse 9;2560;Nidau;;;"Montag und Freitag  08:00-12:00 und 14:00- 17:00
+Dienstag und Donnerstag 08:00- 12:00";1;1;0;0;"""47.018581,7.6518587""";1;0;0;Nur für unsere Patienten verfügbar. Nach telefonische Absprache;4;2;0;0
+Gemeinschaftspraxis PUB Mühleberg AG;Murtenstrasse 28;3203;Mühleberg;031 751 18 00;;Sprechstundenzeiten der Praxis, siehe www.praxismuehleberg.ch;0;1;1;0;"""47.1467276,7.2444855""";0;0;0;Grundsätzlich Test-Kapazitäten für PatientInnen der Gemeinschaftspraxis Mühleberg. Auf telefonische Anfrage und je nach freien Kapazitäten Tests auch für externe Personen möglich.;0;15;15;0
+Gemeinschaftspraxis Uetendorf;Buchshaldenstrasse 2;3661;Uetendorf;;https://www.abstrich.ch;Gemäss Online-Anmeldung;1;1;0;0;"""47.1353455,7.2475257""";1;0;0;;6;6;0;0
+Gesundheitszentrum Gerzensee;Dorfstrasse 12;3115;Gerzensee;;;Nur eigene Patienten auf Voranmeldung;1;0;0;0;"""46.9494093,7.4429922""";0;0;0;;2;;;
+Gruppenpraxis Dres. med Krieger;Jurastrasse 33;4912;Aarwangen;062 916 40 70;https://dr-krieger.ch/index.php/info-coronavirus/coronavirus-so-verhalte-ich-mich-richtig;Montag bis Samstag zu Praxisöffnugszeiten siehe: www.dr-krieger.ch;1;1;0;0;"""46.75495,8.0288223""";1;0;0;Information zur Testung: https://dr-krieger.ch/pdf/Testung-auf-SARS-CoV-2_Corona-Test.pdf;20;20;0;0
+Hausarzt Lorymatte;Thunstrasse 16b;3110;Münsingen;031 721 01 10;;"siehe Praxisöffnungszeiten
+www.hausarztlorymatte.ch";0;1;1;0;"""47.2764489,7.369361""";0;0;0;;0;4;4;0
+Hausärztezentrum Orpund;Hauptstrasse 201;2552;Orpund;;;Praxis Öffnungszeiten;1;1;1;0;"""47.1387984,7.30991789999999""";0;0;0;nur für Patienten des Hausärztezentrums Orpund;100;0;0;0
+Hausarztpraxis;Bernstrasse, 21;3076;Worb;031 552 14 00;;08:00-12:00, 13:00-17:00;1;1;0;0;"""46.7550786,8.0342854""";1;0;0;Wir bieten die Tests nur unseren eigenen Praxispatienten/innen an .;15;15;0;0
+Hausarztpraxis Blumenstein;Badstrasse 1;3638;Blumenstein;033 356 33 22;;08:00-12:00 / 14:00-18:00 nur nach telefonische Absprache;0;1;0;0;"""46.7414768,7.520203""";1;0;0;;100;0;0;0
+Hausarztpraxis Klinik Hohmad by Medaxo;Hohmadstrasse 1;3600;Thun;033 225 26 10;;Montag-Freitag 08:15-12:00 / 13:00-16:00;1;1;0;0;"""46.6619006,7.5557254""";1;0;0;"Termine nach telefonischer Vereinbarung
+Antigen-Schnelltest Resultat inkl. Zertifikat nach max. 3h
+PCR-Test Resultat inkl. Zertifikat nach 24-48h";10;10;0;0
+Hausarztpraxis Zambelli;Murtenstrasse 28;3203;Mühleberg;;;9:00-12:00 und 14:00 bis 18:00;1;1;0;0;"""47.1877187,7.703772""";1;0;0;;30;30;0;0
+Hausarztpraxis-Thun;Bahnhofstrasse 10;3600;Thun;;;;1;0;0;0;"""46.7530179,7.6305036""";0;0;0;;1;;;
+HiBe Campus Spital Hirslanden;Schänzlistrasse 33;3013;Bern;;https://www.onedoc.ch/de/covid-test-zentrum/bern/pb6o3/hirslanden-salem-spital-corona-testzentrum;Täglich inklusive Samstag und Sonntag geöffnet von 8:00 - 17:00;1;1;1;1;"""46.4977248,7.5638951""";1;0;1;;40;40;40;400
+Hôpital de Moutier;Rue Beausite 49;2740;Moutier;032 942 2000;;"Heures d""ouverture:
+08h00-12h00   13h00-1700";1;1;0;0;"""47.1743257,7.3368502""";1;0;1;Nous pouvons réaliser 40 tests par jour;20;20;0;0
+Hôpital du Jura bernois SA, St-Imier;Les Fontenayes 17;2610;St-Imier;032 942 20 00;;"Heures d""ouverture
+du lundi au vendredi
+08h00-12h00   13h00-17h00";1;1;0;0;"""47.2819764,7.3746402""";1;0;1;Nous réalisons 40 tests par jour;20;20;0;0
+Inselspital COVIDtrack;Freiburgstrasse 16c;3010;Bern;;https://app.evita.ch/terminbuchung/zeitpunkt/neu?health_service_id=COVID-19_Testc6nm5htylhn7hv1vagrmua&locale=de&org_unit_id=216&service_provider_id=e;Montag bis Sonntag: 09:00 bis 12:45  und 13:30 bis 17:00 ;0;1;1;0;"""47.0588701,7.6218061""";1;0;1;"Formale Testkapazität ist 50/Tag, aktuell machen wir jedoch 100/Tag 
+Alternative zu NPA PCR bieten wir PCR aus Speichelspülflüssigkeit an (analog Spucktest, jedoch weniger Aerosolgeneration)";0;50;50;0
+Kinder- und Jugendpraxis Arche AG;Emmenstrasse 30;3415;Hasle bei Burgdorf;;;;1;0;0;0;"""47.2731122,7.6883398""";0;0;0;;7;;;
+Kinderarztpraxis;Weltpoststrasse  16;3015;Bern;031 350 48 48;;Montag, Mittwoch, Donnerstag und Freitag 10:30-12:00 und 14:30 bis 16:30;0;1;1;0;"""47.2746873,7.6894654""";1;0;0;Für eigene Patienten nach telefonischer Anmeldung.;0;10;20;0
+Kinderarztpraxis Bergblick;Spitalweg 3;3800;Unterseen;;;Entspricht den Praxisöffnungszeiten;1;1;1;0;"""47.2228802,7.0983511""";0;0;0;Nur kranke Kinder aus der eigenen Praxis werden bei Bedarf getestet. Die Ärztin entscheidet, welcher Test durchgeführt wird.;1;10;10;0
+Kirchenfeld Apotheke Testzentrum;Thunstrasse 9;3005;Bern;;https://kirchenfeldapotheke.ch/;"Montag-Freitag 08:30-12:00 / 13:30-17:00
+Samstagg 13:00-19:00";1;1;1;0;"""47.1259083,7.2388666""";1;0;0;Testtermine online buchen;50;50;50;0
+Landarztpraxis Heimenschwand;Dorf 7;3615;Heimenschwand;033 453 12 22;;08:00-11:30 / 15:00-18:00;1;1;0;0;"""46.952572,7.2587478""";1;0;0;Nur gegen telefonische Anmeldung;20;20;0;0
+Lenk Praxiszentrum by Medaxo;Aegertenstrasse 35;3775;Lenk im Simmental;033 553 30 55;;Dienstag-Freitag 10:00-12:00 / 15:00-16:00;1;1;0;0;"""46.9581208,7.4277463""";1;0;0;"Termine nach telefonischer Vereinbarung
+Es werden keine PCR-Tests für Reisen gemacht
+Antigen-Schnelltest Resultat inkl. Zertifikat nach max. 3h
+PCR-Test Resultat inkl. Zertifikat nach 24-48h";10;10;0;0
+Lindenhofgruppe AG;Bremgartenstrasse 117;3001;Bern;;;24/7 durchgehend an allen 3 Spitalstandorten;0;0;0;1;"""46.7495981,7.6248218""";1;0;1;Nur für Mitarbeitende und Belegärzte der Lindenhofgruppe;0;0;0;2500
+Medica Care Bern;Bollwerk 31;3011;Bern;;https://www.medica-care.ch;"Montag-Donnerstag 09:00-19:00
+Freitag 09:00-20:00
+Samstag 09:00-20:00
+Sonntag 09:00-16:00";1;1;1;1;"""46.7743959,7.5682757""";1;0;0;"Walk-in ohne Voranmeldung
+Antigen-Schnelltest (kostenlos mit Schweizer Krankenkassenkarte)
+PCR-Speicheltest gepoolt (kostenlos mit Schweizer Krankenkassenkarte)
+PCR-Speicheltest bei Symptomen (kostenlos mit Schweizer Krankenkassenkarte)
+PCR-Travel mit Travel Dokument inkl. Passnummer CHF 99.-";1500;1500;1500;1500
+Medica Care Biel;Zentralstrasse 24;2502;Biel;;https://www.medica-care.ch;"Montag-Donnerstag 09:00-19:00
+Freitag 09:00-20:00
+Samstag 09:00-20:00";1;1;1;1;"""46.7609406,7.6288043""";1;0;0;"Antigen-Schnelltest (Kostenlos mit Schweizer Krankenkasse)
+PCR-Speicheltest gepoolt (Kostenlos mit Schweizer Krankenkasse)
+PCR-Speicheltest bei Symptomen (Kostenlos mit Schweizer Krankenkasse)
+PCR-Travel mit Travel Dokument inkl. Passnummer CHF 99.-";1000;1000;1000;1000
+Medica Care Langnau;Güterstrasse 15;3550;Langnau;;https://www.medica-care.ch;"Montag-Donnerstag 17:00-18:00
+Freitag 17:00-18:00
+Samstag 11:00-12:00";1;0;1;0;"""47.1385065,7.2447443""";1;0;0;"Walk-in ohne Voranmeldung
+Antigen-Schnelltest (Kostenlos mit Schweizer Krankenkasse)
+PCR-Speicheltest bei Symptomen (Kostenlos mit Schweizer Krankenkasse)";500;0;500;0
+Medica Care Thun;Untere Hauptgasse 30;3600;Thun;;https://www.medica-care.ch;"Montag-Donnerstag 09:00-19:00
+Freitag 09:00-20:00
+Samstag 09:00-20:00";1;1;1;1;"""47.0759389,7.305918""";1;0;0;"Walk-in ohne Voranmeldung
+Antigen-Schnelltest (Kostenlos mit Schweizer Krankenkasse)
+PCR-Speicheltest gepoolt (Kostenlos mit Schweizer Krankenkasse)
+PCR-Speicheltest bei Symptomen (Kostenlos mit Schweizer Krankenkasse)
+PCR-Travel mit Travel Dokument inkl. Passnummer CHF 99.-";1000;1000;1000;1000
+Medizinisches Zentrum am Bahnhof;Panoramastrasse 1;3600;Thun;058 636 70 00;;Nur nach telefonischer Anmeldung Montag-Freitag 10:00-17:00. Samstag, Sonntag und an Feiertagen geschlossen;1;;0;0;"""47.1382453,7.2134806""";0;0;0;;0;10;0;0
+Muri Arztpraxis by Medaxo;Graffenriedstrasse 1;3074;Muri b. Bern;031 951 53 55;;Montag-Freitag von 10:00-12:00 / 13:00-16:30;1;1;0;0;"""46.927358,7.5639941""";1;0;0;"Termine nach telefonischer Vereinbarung
+Antigen-Schnelltest Resultat inkl. Zertifikat nach max. 3h
+PCR-Test Resultat inkl. Zertifikat nach 24-48h";10;10;0;0
+Notfallzentrum für Kinder und Jugendliche;Freiburgstrasse 15, Eingang 31a;3010;Bern;;https://www.insel.ch/de/patienten-und-besucher/coronavirus/covid-test-in-der-insel-gruppe;Montag bis Sonntag, 10:00 - 17:00 ;0;1;0;0;"""46.9314294,7.8098074""";1;0;1;;0;12;0;0
+Pharmacie de la Gare Moutier SA;Avenue de la Gare 13;2740;Moutier;;https://www.pharmonline.ch;"Lundi à vendredi: 9h30-12h et 13h50-16h30
+Samedi 9h00-11h30 et 13h40 à 15h00
+Dimanche fermé";1;1;0;0;"""47.2810169,7.3799415""";1;0;0;;3;3;0;0
+pharmacieplus de la neuveville;Ch. des Vergers 20;2520;La Neuveville;;https://forms.gle/LFgnwMQPnzLeD2JC8;"Les tests on lieu durant les heures d""ouvertures de la pharmacie, publiées sur Google https://goo.gl/maps/daYTb4nnL7C3yZq37
+Merci de noter que nous ne testons pas tous les jours, ni à toutes les heures. Ceci est planifié en fonction de notre capacité en personnel.";1;1;1;0;"""46.7588283,7.6298657""";1;0;0;"Notre capacité en tests par jour varie en fonction de notre capacité en personnel.
+Nos plages horaires sont réservables pour soit des tests rapides (Ag), soit PCR par prélèvement nasopharyngé, soit encore par prélèvement salivaire. Demander notre capacité par type de test n""est ainsi pas pertinent.";50;50;50;0
+pharmacieplus du vallon;Rue Francillon 4;2610;St-Imier;;https://forms.gle/rU2nFR3qXFPyVYRr6;"Les tests ont lieu durant les heures d""ouvertures de la pharmacie, publiées sur Google https://goo.gl/maps/snqVecymV8hgWCacA
+Merci de noter que nous ne testons pas tous les jours, ni à toutes les heures. Ceci est planifié en fonction de notre capacité en personnel.";1;1;1;0;"""47.0740266,7.3057308""";1;0;0;"Notre capacité en tests par jour varie en fonction de notre capacité en personnel.
+Nos plages horaires sont réservables pour soit des tests rapides (Ag), soit PCR par prélèvement nasopharyngé, soit encore par prélèvement salivaire. Demander notre capacité par type de test n""est ainsi pas pertinent.";50;50;50;0
+pharmacieplus schneeberger;Grand-Rue 161;2720;Tramelan;;https://forms.gle/W7U2w7fD5ioW382v5;"Les tests ont lieu durant les heures d""ouvertures de la pharmacie, publiées sur Google https://goo.gl/maps/hu752dB98AaAjepj6
+Merci de noter que nous ne testons pas tous les jours, ni à toutes les heures. Ceci est planifié en fonction de notre capacité en personnel.";1;1;1;0;"""47.0618339,7.0885625""";1;0;0;"Notre capacité en tests par jour varie en fonction de notre capacité en personnel.
+Nos plages horaires sont réservables pour soit des tests rapides (Ag), soit PCR par prélèvement nasopharyngé, soit encore par prélèvement salivaire. Demander notre capacité par type de test n""est ainsi pas pertinent.";50;50;50;0
+Praxi im Hard;Weissensteinstrasse 30;4900;Langenthal;062 919 23 80;;"Montag 11:00-11:30 / 16:00-16:30
+Dienstag 11:00-11:30 / 16:00-16:30
+Mittwoch 11:00-11:30
+Donnerstag 11:00-11:30
+Freitga 15:30-17:00";1;1;0;0;"""46.9599012,7.4681648""";1;0;0;;4;2;2;0
+Praxis;Hauptstrasse 4;3422;Alchenflüh;034 445 37 66;;Praxisöffnungszeiten;1;1;0;0;"""47.0829985,7.5779723""";1;0;0;Teste werden für die eigenen Patienten angeboten;10;10;0;0
+Praxis;Schanzenstrasse 3;3775;Lenk;033 733 16 01;;"Montag bis Freitag 08:00-11:00 und 14:00-17:00
+Donnerstag Nachmittag geschlossen.";1;1;0;0;"""46.4573404,7.4456944""";1;0;0;Test nur auf Voranmeldung!;150;150;150;0
+Praxis Ackermann;Spitalstrasse 13;3860;Meiringen;;https://www.praxis-ackermann.ch;Montag - Freitag um 11:00;1;1;0;0;"""46.6830395,7.8547233""";1;0;0;;15;15;0;0
+Praxis am Brunnenplatz;Brunnenplatz 3;2543;Lengnau;032 652 28 28;;Bürozeiten;1;1;1;0;"""47.1821466,7.3654596""";1;0;0;Wir testen nur unsere Patienten;5;10;5;0
+Praxis Arzt-Bern;Schänzlistrasse 63;3013;Bern;031 311 43 00;;Montag - Freitag jeweils 08:00-12:00 / 14:00-16:00 ;1;1;0;0;"""46.9527823,7.4504553""";1;0;0;;0;20;0;0
+Praxis Brunnenhof;Dorfstrasse 25 a;3324;Hindelbank;034 411 22 11;;Siehe Homepage;0;1;1;0;"""47.2171543,7.7845283""";0;0;0;;0;30;15;0
+Praxis Dr. D. Weiss;Badweg 7;3302;Moosseedorf;031 859 22 85;;Montag-Freitag 08:00-10:00;0;1;0;0;"""46.9361863,7.7870795""";0;0;0;;0;5;0;0
+Praxis Dr. med. A. Overhage;Güterstrasse 27;2502;Biel;032 328 17 17;;Nach Anmeldung, gerne auch per mail info(at)praxisoverhage.ch;1;1;1;0;"""47.1194664,7.2932557""";1;0;0;Das Angebot richtet sich primär an unsere bereits bestehenden Patienten;10;10;10;0
+Praxis Dr. med. Holger Pütz;Krankenhausstrasse 6 B;3672;Oberdiessbach;031 772 00 07;;"Montag bis Mittwoch 08:00-18:00
+Freitag 08:00-18:00";1;1;0;0;"""46.8389826,7.6199911""";1;0;0;es werden nur eigene PatientInnen getestet;10;0;0;0
+Praxis Dr. med. Hug;Lyssachstrasse 23;3400;Burgdorf;034 422 91 91;;"Montag- Mittwoch 08:00-12:00 / 13:00-15:30
+Donnerstag 08:00-11:00
+Freitag auf Anfrage";1;1;0;0;"""46.681925,7.8779806""";1;0;0;"Terminvergabe gem. telefonischer Anmeldung.
+Keine Massentestung.";2;2;0;0
+Praxis Dr. med. R. Näf;Bahnhofstrasse 11;3250;Lyss;032 384 35 51;;07:30 - 11:15 / 13:30 - 17:15;1;1;1;0;"""46.9767776,7.7409321""";1;0;0;;30;20;20;0
+Praxis Dr. Rössler;Moosackerwg 16;4704;Niederbipp;;;Antigen Test nur für eigene praxisbekannte Patienten;1;0;0;0;"""46.9514253,7.4413163""";0;0;0;;5;;;
+Praxis Dr. Rössler;Moosackerweg 16;4704;Niederbipp;032 633 1313;;"Montag - Freitag ausser Donnerstagnachmittag
+08:00-11:30 
+14:30-17:30";1;0;0;0;"""47.1485359,6.9842876""";1;0;0;;10;0;0;0
+Praxis Dr. Rudolf und Dr. Schürch;Hauptstrasse 9;2562;Port;032 331 76 77;;"08:00-12:00 
+14:00-17:00 ";0;1;0;0;"""47.2853429,7.4359067""";1;0;0;Nur für unsere Patienten, kein öffentliches Testzentrum;0;6;0;0
+Praxis Dr.Stern;Dr. Nicole Stern;2502;Biel;;;während der Praxisöffnungszeiten;1;1;1;0;"""46.7592951,7.6255913""";1;0;0;"Tests v.a. für eigene symptomatische Patienten
+Zertifikate nur gelegentlich für eigene Patienten";3;3;3;0
+Praxis Frey Revaz;Schulhausstrasse 15;3293;Dotzigen;032 351 26 62;;Praxis Öffnungszeiten;1;1;0;0;"""47.1207812,7.33756109999999""";1;0;0;Nur für unsere Patienten;8;8;0;0
+Praxis Laurent Schaller;"Rue de l"" Écluse 3";2740;Moutier;;;Lundi à Mercredi de 8h30 à 12h et de 14 à 16h;0;1;0;0;"""46.8741593,7.5599096""";0;0;0;Tests seulement pour les patients habituels du médecin et lors des jours de garde;0;5;0;0
+Praxis Niesen 1;Niesenstrasse 1;3600;Thun;031 251 50 00;https://www.niesen1.ch;gem. Tel. Rücksprache;1;1;1;0;"""46.7530179,7.6305036""";1;0;0;;25;;;
+Praxis Peter Hofmann;Dufourstrasse 41;2502;Biel;032 341 13 41;;Wochentags 08:00-11.30 / 14:00-17:30 ausser Donnerstagnachmittag;1;1;1;0;"""46.4603464,7.4363708""";1;0;0;;10;10;4;0
+Praxis Sonne Riggisberg;Sonnenweg 1;3132;Riggisberg;031 809 17 17;;nach telefonischer Anmeldung;1;1;1;0;"""47.0628925,7.0909014""";1;0;0;"Das Angebot richtet sich an Patient*innen der Praxis Sonne Riggisberg
+Zertifikate für Antigen Schnellteste sofort (Entnahme und Auswertung in Praxis), Zertifikate PCR Test vom Medics Labor (Entnahme bei uns, Auswertung bei Medics)";15;15;5;0
+Praxis Stüdeli;Harzer 36;3436;Zollbrück;034 496 91 11;;Montag-Freitag 11:00-12:00, ausser Mittwoch (geschlossen);1;;0;0;"""47.2184201,7.7743903""";1;0;0;nur Tests für eigene Patienten, im Krankheitsfall oder für Arbeit, keine Tests für Freizeibereich.;4;4;0;0
+Praxis Tennhoff;Niesenstrasse 1;3600;Thun;033 222 25 87;;"Montag - Freitag 08:00 - 11:30 
+Montag, Dienstag, Mittwoch Fr 14:00 - 15:00 ";1;1;1;0;"""47.0465031,7.5407617""";1;0;0;;10;5;5;0
+Praxis um Bern Laupen / Praxis um Bern Gurmels;Bahnweg 2c / Doktorgässli 19;3177;Laupen;058 325 61 00 / 026 674 93 22;https://www.praxisumbern-laupen.ch;"Montag - Freitag 14.00 - 15.00 in Laupen oder                Gurmels Doktorgässli 19     3212 Gurmels 
+                                                                                             026 674 93 22         gurmels@praxisumbern.ch";0;1;0;0;"""46.8919834999999,7.1755981""";1;0;0;Nur auf Voranmeldung;30;30;30;0
+Praxis Walter Wüthrich;Dorfstrasse 50;3415;Hasle b. Burgdorf;034 460 00 66;;"Montag-Mittwoch 08:00-11:30 / 13:30-17:30
+Donnerstag 08:00 -11:30 
+Freitag 08:00-11:30 und 13:30-17:30";1;1;0;0;"""46.8389186,7.5441679""";1;0;0;Nur solange genügend Platz für unsere eigenen Patienten vorhanden ist;10;10;0;0
+Schlossapotheke Thun;Obere Hauptgasse 33;3600;Thun;;https://www.schloss-apotheke.ch/corona.html;"Montag bis Freitag
+8:15 - 11:50
+13:15 - 18:10
+
+Samstag
+8:15 - 11:50
+13:00- 15:50
+
+walk in:
+Freitag ab 19:00
+Samstag ab 17:00";1;1;1;0;"""47.1163768,7.2531467""";1;0;0;Testkapazität sind 200 Tests, unabhängig der Testart.;200;200;200;0
+Spital fmi AG Drive-in Interlaken (keine Schnelltests);"Jungfraupark (Beschilderung ""P-Expo"" folgen)";3800;Matten bei Interlaken;;https://www.spitalfmi.ch/de/ueber-uns/coronavirus/drive-in-testzentrum-interlaken.html#standort-und-anreise;Montag-Freitag: 16:00-18:00 / Samstag, Sonntag, Feiertage: 15:00-17:00;0;1;1;0;"""47.139426,7.244966""";1;0;1;"• Zwingend ist das vorgängige Ausfüllen der Online-Anmeldung mit Terminvergabe
+• Anreise und Testen ist mit dem Auto (Max.höhe 2,20m) oder mit Velos/Motorrädern möglich.
+• Mitbringen: Ausgedruckte Terminbestätigung, amtlicher Ausweis und gültige Krankenkassenkarte";0;60;60;0
+Spital Riggisberg;Eyweg2;3132;Riggisberg;;https://www.spitalriggisberg.ch;"Montag bis Freitag: 09:00-10:00, 13:30-14:15
+Samstag bis Sonntag: 13:30-14:15";0;1;0;0;"""46.9525216,7.4546222""";0;0;1;;0;60;0;0
+Stadthofpraxis Dres. med. A. und C. Steinmann;Stadthof 1;3380;Wangen an der Aare;032 631 12 12;;Während den Praxisöffnungszeiten.;1;1;0;0;"""47.176582,7.0719028""";1;0;0;Nur auf telefonische Voranmeldung.;10;10;0;0
+Stedtli-Praxis;Hauptstrasse 43;3800;Unterseen;033 88 88 033;;s. Homepage - kein walk-in Angebot;1;1;0;0;"""46.9474551,7.4366962""";1;0;0;Tests nur nach telefonischer Anmeldung und nur für Patient:innen der Praxis. www.stedtli-praxis.ch;8;8;0;0
+Südland Testzentrum;Effingerstrasse 15;3008;Bern;;https://medtermin.ch/health-organization/suedlandpraxiseffinger;08:15-17:00;1;1;0;1;"""46.945645,7.4352127""";1;0;0;Unser Testzentrum steht in ständigem Austausch mit unserer Arztpraxis, somit können wir Sie aus medizinischer Sicht professionell betreuen und beraten.;0;15;0;0
+Swiss Olympic Medical Center Magglingen;Hauptstrasse 247;2532;Magglingen;058 467 63 26;;Montag - Freitag jeweils 08:00-11:00 nur nach telefonischer Anmeldung;1;0;0;0;"""46.870464,7.562833""";1;0;0;;25;0;0;0
+Swiss Sportclinic;Sempachstrasse 22;3014;Bern;031 332 66 77;;Montag-Freitag 8:00 - 11:00 / 13:00 - 16:00 ;1;0;0;0;"""47.1408872,7.2494452""";1;0;0;"Antigen Schnelltests nur mit telefonischer Anmeldung möglich! 
+Wir stellen Covid-Zertifikate aus. 
+Es werden NUR symptomfreie Personen getestet, welche auch nicht in Kontakt mit positiv getesteten Personen waren.";5;0;0;0
+Testcenter Lenk;Oberriedstrasse 9;3775;Lenk;;https://www.etermin.net/cov-test-servicecenter/serviceid/322353?noinitscroll=1;Montag - Sa 16:30 - 18:30;1;0;0;0;"""46.4563627,7.4436066""";1;0;0;;40;40;0;0
+Testzenter Bern West;Bümplizstrasse 83;3018;Bern;;https://www.hirslanden.ch/de/klinik-permanence/kampagnen/corona-testcenter.html;gemäss Informationen auf der Homepage;1;1;0;0;"""46.9445381,7.3923474""";1;0;0;Termine über Onedoc buchen und Anmeldeformular online ausfüllen und an die auf der Homepage angegebene email-Adresse versenden;10;;;
+Testzentrum Gesundheitspraxis Raphael;Tschuppestrasse 2;3704;Krattigen;079 305 61 74;;"Freitags und Samstags gemäss Homepage (www.praxis-raphael.ch)
+Tests ausserhalb der Öffnungszeiten: nach telefonischer Vereinbarung";1;1;1;0;"""46.6079986,7.9218423""";1;0;0;;50;30;30;0
+Testzentrum Saanen / altes Spital;Spitalstrasse 10;3792;Saanen;;https://www.gstaad.ch/aktuell/news/covid-19-in-der-destination-gstaad.html;"Montag bis Samstag 16:00-19:00
+Freitag 16:00 - 20:00";1;1;1;0;"""46.4905351,7.2658902""";1;0;0;;6;6;0;0
+Viselio Testzentrum;Laupenstrasse 4;3008;Bern;;https://be.viselio.com;Täglich von 07:00-20:00, inkl. Sonn- und Feiertagen.;1;0;1;0;"""47.2380365,7.6560258""";1;0;0;Eine Registration über das Buchungs-Tool ist zwingend. Spontane Testungen können nicht garantiert werden.;1000;0;1000;0
+Walk-In-Klinik, Medizinisches Zentrum Biel;Unionsgasse 14;2502;Biel;;;"Montag-Freitag 08:00-20:00
+Samstag 08:00-12:00
+Sonntag geschlossen";1;1;1;0;"""47.1394173,7.2449536""";0;0;0;Nur Test für symptomatische Personen.;0;150;0;0
+walk-in-lyss;Hirschenplatz 8;3250;Lyss;;https://www.walk-in-lyss.ch/kopie-von-impfanmeldung;Montag-Samstag 08:00-18:00 ;1;1;1;0;"""46.6811361,7.8438494""";1;0;0;Rund 200-220 Tests pro Tag (egal ob PCR/Antigen-Schnelltest oder PCR-Spucktest;200;200;200;0
+Wynigen Praxiszentrum by Medaxo;Luegstrasse 8;3472;Wynigen;034 415 11 63;;Montag-Freitag 08:00-12:00 und 13:30-17:00 ;1;1;0;0;"""47.139215,7.3689445""";1;0;0;"Termine nach telefonischer Vereinbarung
+Antigen-Schnelltest Resultat inkl. Zertifikat nach max. 3h
+PCR-Test Resultat inkl. Zertifikat nach 24-48h";10;10;0;0
+Xundheitszentrum Wengen;Bodendiehle 1446;3823;Wengen;;https://www.covid-19-testpoint-wengen.ch;"08:00 - 11:00 (nur während Hochsaison)
+16:00 - 19:00";1;1;0;0;"""46.9284763,7.5611019""";1;0;0;;200;30;0;0
+Zahnarztpraxis Mitrovic;Aarbergergasse 21;3011;Bern;031 311 41 17;;"CHF 40.- Barzahlung/TWINT pro Antigen Schnelltest/Rapid Antigen - Testkosten werden NICHT vom Bund übernommen/PAS DE TEST GRATUITS/NO FREE TESTING.
+11h-16h15: Montag/lundi/Monday, Donnerstag/jeudi/Thursday, Freitag/vendredi/Friday 
+13h-16h15: Mittwoch/mercredi/Wednesday
+Bis Ende Februar 2022.";1;0;0;0;"""46.7735515,7.5738429""";1;0;0;Ihr Zertifikat mit QR-Code erhalten Sie direkt ins CovidCert App, per Mail oder ausgedruckt. Tests nur mit Voranmeldung/Tests sur rendez-vous/please book a time. Parliamo italiano/On parle français/We speak English - Welcome!;40;0;0;0
+Zeughauspraxis;Zeughausgasse 29;3011;Bern;031 311 65 22;https://www.zeughauspraxis.ch/arrzterminonlinebuchen;Montag-Donnerstag 08:00–12:00 / 13:15-17:00 (Mittwoch Nachmittag bis 15:00) Fr 08:00–12:00 / 13:15-19:30.;1;1;1;0;"""46.9488004,7.4453121""";1;0;0;Die Praxis befindet sich im 2. Stock. Anmeldung per Telefon oder online. Wir bitten Sie zum Termin einen gültigen Ausweis und eine Krankenkassenkarte mitzunehmen. Durch Terminvereinbarung müssen Sie bei uns weder anstehen noch lange warten. Das Zertifikat erhalten Sie nach 15 Minuten.;400;250;0;0
+;;;;;;;;;;;;;;;;100;20;0;100
+;;;;;;;;;;;;;;;;5;10;25;0
