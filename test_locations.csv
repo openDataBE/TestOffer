@@ -1,5 +1,5 @@
 nameDe;address;zip;location;phone;onlineRegistrationLink;openingHoursDe;fastNasopharyngealTest;pcrNasopharyngealTest;pcrSpitTest;pcrPooledSpitTest;coordinates;createsCertificate;isDriveIn;isHospital;descriptionDe
-adeldoc;Im Postgebäude, Dorfstrasse 6;3715;Adelboden;033 673 26 26;;10:00-12:00 / 15:00-17:00;1;1;0;0;46.49385128971718, 7.560024269335676;0;0;0;Testung nur für symptomatische Patienten/Patientinnen, die auch eine ärztliche Beratung/Untersuchung benötigen
+adeldoc;Dorfstrasse 6;3715;Adelboden;033 673 26 26;;10:00-12:00 / 15:00-17:00;1;1;0;0;46.49385128971718, 7.560024269335676;0;0;0;Im Postgebäude<br />Testung nur für symptomatische Patienten/Patientinnen, die auch eine ärztliche Beratung/Untersuchung benötigen
 Aerztezentrum Interlaken;Florastrasse 9;3800;Interlaken;;;8:00-12:00 / 14:00-17:00 gemäss Terminvereinbarung;1;1;1;0;46.6830395,7.8547233;1;0;0;Nur für praxiseigene PatientInnen mit Symptomen
 Aeztepraxis im Zentrum;Dorfstrasse 44;3661;Uetendorf;033 346 56 56;;07:30-17:00;1;1;0;0;46.7735515,7.5738429;1;0;0;
 Apotheke;Länggassstrasse 28;3012;Bern;031 301 23 22;;nach Anfrage;1;0;0;0;46.9531782,7.4328452;0;0;0;Test hinter der Apotheke in Spezialbehausung
